@@ -53,4 +53,4 @@ sudo lshw -c display
 
 ## A guide to installing Nvidia K80: https://towardsdatascience.com/deep-learning-gpu-installation-on-ubuntu-18-4-9b12230a1d31
 
-   
+## Clean installation: 
