@@ -54,3 +54,7 @@ sudo lshw -c display
 ## A guide to installing Nvidia K80: https://towardsdatascience.com/deep-learning-gpu-installation-on-ubuntu-18-4-9b12230a1d31
 
 ## Clean installation: 
+
+
+## File transfer example (local to server transfer)
+gcloud compute scp ~/Documents/WORKSPACE/continuous_view_synthesis.zip oushesh@instance-1:/home/oushesh/workspace/continuous_view_synthesis.zip
