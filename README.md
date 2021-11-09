@@ -10,13 +10,6 @@
    * Install CuDNN
    * Compile MXNet 
 
-
-
-
-
-
-
-
 ##########################################################################################################################
 
 
@@ -35,8 +28,6 @@ https://www.itzgeek.com/post/how-to-install-nvidia-drivers-on-ubuntu-20-04-ubunt
    https://stackoverflow.com/questions/18935539/authenticate-with-github-using-a-token
    https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse#install-openssh-using-windows-settings
    
-   
-
 ## VM Setup GCP:
    * sudo apt install wget
    * https://www.cyberciti.biz/faq/ubuntu-linux-install-nvidia-driver-latest-proprietary-driver/ 
@@ -60,6 +51,8 @@ sudo lshw -c display
 
 ## Clean installation: 
 
-
 ## File transfer example (local to server transfer)
 gcloud compute scp ~/Documents/WORKSPACE/continuous_view_synthesis.zip oushesh@instance-1:/home/oushesh/workspace/continuous_view_synthesis.zip
+
+## Pycharm and testing
+   https://blog.doit-intl.com/remote-development-with-pycharm-and-google-cloud-1a8bdab3433f
