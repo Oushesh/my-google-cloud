@@ -31,6 +31,11 @@ Tested:
 https://www.itzgeek.com/post/how-to-install-nvidia-drivers-on-ubuntu-20-04-ubuntu-18-04.html
 * installed and tested sudo apt-get install gnome-control-center for GUI interface to access ubuntu-drivers
 
+## Github Usage with GCP and cloning with GIT
+   https://stackoverflow.com/questions/18935539/authenticate-with-github-using-a-token
+   https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse#install-openssh-using-windows-settings
+   
+   
 
 ## VM Setup GCP:
    * sudo apt install wget
